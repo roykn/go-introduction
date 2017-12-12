@@ -1,5 +1,6 @@
 package math
 
+// Average calculates the average of the given values
 func Average(values []float64) float64 {
 	total := .0
 	for _, v := range values {
