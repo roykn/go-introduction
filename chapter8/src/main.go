@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chapter8/math" // add to GOPATH
 	"fmt"
+	"intro_go/chapter8/math" // add to GOPATH
 )
 
 func main() {
